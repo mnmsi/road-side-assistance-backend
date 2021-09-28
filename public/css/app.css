@@ -1,0 +1,50 @@
+.ti-view-list {
+  color: #28C86A;
+  color: #28C86A;
+}
+
+.card .card-body i {
+  color: #28C86A !important;
+}
+
+.LoginPage {
+  background: #FBFFFC;
+}
+
+.LoginPage .row {
+  min-height: 100vh;
+}
+
+.LoginPage .loginFrom {
+  height: 100%;
+}
+
+.LoginPage .loginFrom .login-body {
+  box-shadow: -2px 11px 20px 4px rgba(57, 227, 127, 0.16);
+  border-radius: 8px;
+}
+
+.LoginPage .loginFrom .login-body .login-header {
+  background: #28C86A;
+  width: 100%;
+  padding: 5px;
+  border-radius: 8px 8px 0px 0px;
+}
+
+.LoginPage .loginFrom .login-body .login-header .loginHeader {
+  line-height: 1.5rem;
+  font-size: 25px;
+  color: #FFFFFF;
+}
+
+.LoginPage .loginFrom .login-body .login-main-from {
+  background: #ffffff;
+  padding: 25px;
+}
+
+.LoginPage .loginFrom .login-body .login-main-from .submit-buttom {
+  background: #28C86A;
+  color: #FFFFFF;
+}
+
+
